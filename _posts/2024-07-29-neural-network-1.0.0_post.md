@@ -18,7 +18,7 @@ Neural Networks includes...
 
 Each layer is usually combination of Linear (straight line) and or Linear (not straight line) functions
 
-![Image description](images/neural-network.gif)
+![Image description](images/neuralNetwork.png)
 
 Note: "patterns' is an arbitrary term, they may be refer to as 'embedding', 'weights', 'feature representation', 'feature vectors', but all refering to similar things
 
