@@ -18,7 +18,7 @@ Neural Networks includes...
 
 Each layer is usually combination of Linear (straight line) and or Linear (not straight line) functions
 
-![Image description](images/neuralNetwork.png)
+![neural](https://github.com/jonatng/jonatng/blob/master/images/neuralNetwork.png)
 
 Note: "patterns' is an arbitrary term, they may be refer to as 'embedding', 'weights', 'feature representation', 'feature vectors', but all refering to similar things
 
@@ -27,7 +27,8 @@ Note: "patterns' is an arbitrary term, they may be refer to as 'embedding', 'wei
 2. Unsupervised & Self-Supervised Learning: No labels, Cats and Dogs photos
 3. Transfer Learning: It takes the patents of a model that has learned and transfer to another model, so it gets a head start
 4. Reinformcement Learning: Agent, Actions -> Rewards -> observations
-![Image description](images/learning-types.png)
+
+![types](https://github.com/jonatng/jonatng/blob/master/images/learning-types.png)
 
 # Deep Learning Use Cases
 ### Sequence to Sequence (seq2seq) includes:
